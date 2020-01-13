@@ -1,1 +1,28 @@
-println(test..)
+create git
+git init
+
+============
+check
+git status
+
+============
+add>>
+git add.
+
+============
+remove
+get rm --cached testGift.java
+
+============
+
+git remove add origin https:://....
+
+============
+git push -u origin master
+
+============
+
+git config --global username.name"name"
+git config --globaluser.emal"email"
+
+============
